@@ -1,2 +1,2 @@
 # nodejs-practice
-Simple Todo Application in NodeJS withPostgreSQL
+Simple Todo Application in NodeJS with PostgreSQL
